@@ -1,0 +1,1 @@
+global.historia+=1;

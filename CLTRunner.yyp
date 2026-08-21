@@ -35,12 +35,20 @@
   },
   "name":"CLTRunner",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},},
+    {"id":{"name":"obj_historia","path":"objects/obj_historia/obj_historia.yy",},},
+    {"id":{"name":"rm_historia","path":"rooms/rm_historia/rm_historia.yy",},},
+    {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
+    {"id":{"name":"spr_historia","path":"sprites/spr_historia/spr_historia.yy",},},
+    {"id":{"name":"spr_historia2","path":"sprites/spr_historia2/spr_historia2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_historia","path":"rooms/rm_historia/rm_historia.yy",},},
+    {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
