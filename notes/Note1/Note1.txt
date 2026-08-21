@@ -1,0 +1,13 @@
+CLT Runner
+
+Tela história:
+- História: aperte espaço para avançar as cenas.
+Tela partida:
+-Jogador: pode ir de um canto ao outro da tela.
+-Itens: desce por um dos lados da tela.ELes serão destruidos quando encostarem no jogador
+-CLT: desce por um dos cantos da tela. Reinicia a fase quando encosta no jogador
+-Cenario: se move para baixo.
+
+Objetivos: Sobreviva o maximo de tempo possivel, pegando comida e desviando da CLT.
+Obstaculos: Carteiras de trabalho que descem por um dos lado da tela, se o jogador encostar a fase é reiniciada.
+Regras: O jogador só pode se mover para um dos lados da tela, pode comer as comidas e não pode encostar na CLT.
